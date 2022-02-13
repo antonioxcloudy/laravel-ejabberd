@@ -2,7 +2,7 @@
   "repositories": [
         {
             "type": "vcs",
-            "url": https://github.com/antonioxcloudy/laravel-ejabberd/"
+            "url": "https://github.com/antonioxcloudy/laravel-ejabberd/"
         }
     ]
   "name": "antonioxcloudy/laravel-ejabberd",
