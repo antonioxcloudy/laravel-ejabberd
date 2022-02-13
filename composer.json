@@ -1,4 +1,10 @@
 {
+  "repositories": [
+        {
+            "type": "vcs",
+            "url": https://github.com/antonioxcloudy/laravel-ejabberd/"
+        }
+    ]
   "name": "antonioxcloudy/laravel-ejabberd",
   "description": "Ejabbered API Wrapper for Laravel/lumen",
   "license": "MIT",
